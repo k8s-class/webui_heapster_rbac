@@ -1,5 +1,7 @@
-# webui_heapster_rbac
-How to install the web ui - heapster - dashboard admin with rbac
+# Dashboard
+
+### How to install the web ui - heapster - dashboard admin with rbac
+
 ```
 kubectl create -f https://raw.githubusercontent.com/kubernetes/kops/master/addons/kubernetes-dashboard/v1.8.3.yaml
 
